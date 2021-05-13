@@ -1,5 +1,5 @@
 # PakhiShop
-## Blog 1C-Bitrix
+## Online Shop 1C-Bitrix
 
 - Home page
 
